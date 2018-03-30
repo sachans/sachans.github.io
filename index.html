@@ -5,6 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script> 
+    $(document).ready(function() {
+      $(".h1").addClass("animate fadeIn");
+      $(".h1").animate('slow');
+    });
   <style>
     body,h1 {font-family: "Raleway", sans-serif}
     body, html {height: 100%}
@@ -19,7 +25,7 @@
 
     <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
       <div class="w3-display-middle">
-        <h1 class="w3-jumbo w3-animate-top">WEBSITE</h1>
+        <h1 class="w3-jumbo">WEBSITE</h1>
         <hr class="w3-border-grey" style="margin:auto;width:40%">
         <h1 class="w3-large w3-center">In Process..</h1>
       </div>
