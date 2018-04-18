@@ -12,6 +12,11 @@ main{
 	84% {background: #EDEDED; color: #4B5658;}
 	98% {background: yellow; color: black;}
 }
+
+.icons-social {
+	margin-top: 200px;
+}
+
 i {
 	color: rgb(21,34,134);
 }
