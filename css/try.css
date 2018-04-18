@@ -1,0 +1,23 @@
+main{
+	-webkit-animation:colorchange 20s infinite ;
+}
+
+@-webkit-keyframes colorchange {
+	0% {color:#4B5658; background: #ededed; fill:#4B5658;}
+	42% {color:#0277BD; background: #fafafa; fill:#0277BD;}
+	28% {color:#fafafa; background: #43A047; }
+	14% {color:#fafafa ; background: #485564;}
+	58% {color:#fafafa; background: #303F9F;}
+	70% {background: #AF3D4E; color: #FAFAFA;}
+	84% {background: #EDEDED; color: #4B5658;}
+	98% {background: yellow; color: black;}
+}
+
+
+.icons-social {
+	margin-top: 200px; 
+}
+
+i {
+	color: rgb(21,34,134);
+}
