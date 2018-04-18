@@ -1,7 +1,7 @@
 /* Theme */
 
 main {
-	background: #EDEDED;
+	background: #FAFAFA;
 	color: #4B5658;
 }
 
@@ -13,85 +13,3 @@ main {
 	fill: #4B5658;
 }
 
-.intro {
-  	-webkit-animation: color-change 2s infinite;
-  	-moz-animation: color-change 2s infinite;
-  	-o-animation: color-change 2s infinite;
-  	animation: color-change 2s infinite;
-  	}
-
-@-webkit-keyframes color-change {
-  	0% {color: red; }
-  	50% {color: blue; }
-  	100% {color: red; }
-  	}
-
-@-moz-keyframes color-change {
-  	0% { color: red; }
-    50% { color: blue; }
-    100% { color: red; }
-  	}
-@-o-keyframes color-change {
-    0% { color: red; }
-    50% { color: blue; }
-    100% { color: red; }
-	}
-@keyframes color-change {
-    0% { color: red; }
-    50% { color: blue; }
-    100% { color: red; }
-	}
-
-.tagline {
-  	-webkit-animation: color-change 2s infinite;
-  	-moz-animation: color-change 2s infinite;
-  	-o-animation: color-change 2s infinite;
-  	animation: color-change 2s infinite;
-  	}
-@-webkit-keyframes color-change {
-  	0% {color: red; }
-    50% {color: blue; }
-  	100% {color: red; }
-  	}
-@-moz-keyframes color-change {
-  	0% { color: red; }
-    50% { color: blue; }
-    100% { color: red; }
-  	}
-@-o-keyframes color-change {
-    0% { color: red; }
-    50% { color: blue; }
-    100% { color: red; }
-	}
-@keyframes color-change {
-    0% { color: red; }
-    50% { color: blue; }
-    100% { color: red; }
-	}
-
-.fab {
-  	-webkit-animation: color-change 2s infinite;
-  	-moz-animation: color-change 2s infinite;
-  	-o-animation: color-change 2s infinite;
-  	animation: color-change 2s infinite;
-  	}
-@-webkit-keyframes color-change {
-  	0% {color: red; }
-  	50% {color: blue; }
-  	100% {color: red; }
-  	}
-@-moz-keyframes color-change {
-  	0% { color: red; }
-    50% { color: blue; }
-    100% { color: red; }
-  	}
-@-o-keyframes color-change {
-    0% { color: red; }
-    50% { color: blue; }
-    100% { color: red; }
-}
-@keyframes color-change {
-    0% { color: red; }
-    50% { color: blue; }
- 	100% { color: red; }
-}
